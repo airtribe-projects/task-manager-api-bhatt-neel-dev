@@ -1,0 +1,10 @@
+Implement Task Manager API with full CRUD operations
+- Added in-memory data storage loading tasks from task.json
+- Implemented GET /tasks endpoint to retrieve all tasks
+- Implemented GET /tasks/:id endpoint to retrieve a single task
+- Implemented POST /tasks endpoint to create new tasks with validation
+- Implemented PUT /tasks/:id endpoint to update tasks with validation
+- Implemented DELETE /tasks/:id endpoint to delete tasks
+- Added comprehensive input validation for all endpoints
+- Created detailed README.md with API documentation and usage examples
+- All 10 tests passing successfully
